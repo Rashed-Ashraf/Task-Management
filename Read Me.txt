@@ -1,33 +1,33 @@
 This project solves the problem of Project Management.This app is useful for teams that work on a task together. In this app the user can create his own task and divide them into the team members. 
 Roles: 
 Owner (Project creater): 
-1. Create
-2. Edit
-3. delete
-4. add or remove team members
-5. divide the tasks 
+1. Create project or task
+2. Edit   project or task 
+3. Delete project or task
+4. Add or remove team members
+5. Assign the tasks 
 Manager(Sub creater):
-1. Create
-2. Edit
-3. delete
-4. add or remove team members
-5. divide the tasks
-All task but with the premission of owner 
-Employee:
+1. Create Task
+2. Edit   Task
+3. Delete Task
+4. Add or remove team members
+5. Assign the tasks
+Team Member:
 1. Accept task and inform the progress to the other members.
 2. Creates subtask
-3. Edit tasks
-4. Delete 
-Client(Viewer):
-This role can see the progess only. 
+3. Edit tasks or subtasks
+4. Delete tasks or subtasks 
+Report(Viewer):
+   This role can see the progess only. 
 Features: 
 1. User login or signup Dashboard with the previous task that the user created Also add new task option. 
 2. In task option user that can create task also give the roles for his team and Manage thier progress. 
 3. Task has send through link to the team members. 
 4. Team members can see the only task he can change the progess of the task he registered for also add comment for others (status) user can create a state like to do inprogress compeleted etc. 
-5. Every state of task container contains Add subtask option Labels for category (1st priority, 2nd priority, normal, delayed) 
-6. Dates (set time this feature will show you remaining time also which task are expired) 
-7. Comment Section 
+5. Every state of task container contains
+6. Add subtask option Labels for category (1st priority, 2nd priority, normal, delayed) 
+7. Dates (set time this feature will show you remaining time also which task are expired) 
+8. Comment Section 
 UI 
 1. Login/signup page 
 2. Dashboard with one navbar one side bar also three container task creation form popup container
